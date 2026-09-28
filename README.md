@@ -10,15 +10,11 @@ building clean, efficient and user-friendly applications.
 - 🤖 Exploring AI & Machine Learning
 - 🚀 Building projects and improving my coding skills
 
-📫 Reach me at: hemantjeengar2006mail@gmail.com
+## 🌐 Connect With Me
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemant%20Jeengar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-jeengar-411478434/)
 
-# 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](www.linkedin.com/in/hemant-jeengar-411478434)
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:hemantjeengar2006@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemantjeengar2006@gmail.com)
 
 ---
 
