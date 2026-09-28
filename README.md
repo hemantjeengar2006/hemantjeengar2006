@@ -10,7 +10,7 @@ building clean, efficient and user-friendly applications.
 - 🤖 Exploring AI & Machine Learning
 - 🚀 Building projects and improving my coding skills
 
-📫 Reach me at: your-email@gmail.com
+📫 Reach me at: hemantjeengar2006mail@gmail.com
 
 ---
 
